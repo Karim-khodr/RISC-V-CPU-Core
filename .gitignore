@@ -1,0 +1,7 @@
+obj_dir/
+*.vcd
+*.fst
+*.log
+waves/*.vcd
+waves/*.fst
+__pycache__/
